@@ -13,7 +13,7 @@ Developed and tested with:
  * PDF Clown 0.1.2.0 library of Stefano Chizzolini
 
 ### Installing
-If you want to modify/compile the program you can download Extract_text.java source otherwise  
+If you want to modify/compile the program you can download PDFExtract_text.java source otherwise  
 download jar file in a directory containing pdf file to be used and and execute it.  
 Example:  
   java -jar PDFExtract_text.jar <filename.pdf> 0 0 595 842 27
