@@ -44,7 +44,7 @@ and 120 as width, a bit more as not all recipients will be of same lenght, and 1
   
 ![alt text](https://github.com/fufububu/PdfExtract_text/blob/master/Image3.gif)  
   
-You will notice not all recipiens are in the same position (pages 2,6 and 12) so we need to enlarge windows search width to 20dpi and obtain:    
+You will notice not all recipiens are in the same position (pages 2,6 and 12) so we need to enlarge windows search width to 20dpi and obtain:  
   
 ![alt text](https://github.com/fufububu/PdfExtract_text/blob/master/Image4.gif)  
   
