@@ -10,7 +10,7 @@ Developed and tested with:
  * Windows 7 64 bit
  * java version "1.8.0_25"
  * Java(TM) SE Runtime Environment (build 1.8.0_25-b18)
- * PDF Clown 0.1.2.0 library of Stefano Chizzolini
+ * PDF Clown 0.1.2.0 library (Copyright © 2006-2015 Stefano Chizzolini http://www.pdfclown.org)
 
 ### Installing
 If you want to modify/compile the program you can download PDFExtract_text.java source otherwise  
